@@ -1,0 +1,8 @@
+modalID: 9
+title: Chromebrew ARM
+date: 2015-09-15
+img: submarine.png
+client: Awesome Algorithms
+clientLink: "//github.com/heri/chromebrew-arm"
+category: Ruby, brew
+description: Package manager for Chrome OS - with ARM (ARMv7) support. Turns your Chromebook into a dev machine

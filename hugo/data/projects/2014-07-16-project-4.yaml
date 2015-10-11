@@ -1,0 +1,8 @@
+modalID: 4
+title: Free Geo-DB Api
+date: 2015-09-*
+img: geodb.png
+client: Geo-DB Api
+clientLink: "//github.com/heri/geo-db-api"
+category: Geo API, Neural networks
+description: A Rails application responding to airports, cities, countries, lakes, ports, regions and timezones searches with geospatial data. Uses fuzzy string matching

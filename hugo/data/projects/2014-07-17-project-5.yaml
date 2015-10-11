@@ -1,0 +1,8 @@
+modalID: 5
+title: Project Alcatel XML
+date: 2015-09-*
+img: safe.png
+client: Alcatel XML
+clientLink: "//github.com/heri/alcatel_xml"
+category: Ruby gem
+description: A Ruby Gem to parse Alcatel network xml files. Currently for 3G (RNC, NodeB) networks
