@@ -1,8 +1,8 @@
 modalID: 5
-title: Project Alcatel XML
+title: Vault Alcatel
 date: 2015-09-*
 img: safe.png
-client: Alcatel XML
-clientLink: "//github.com/heri/alcatel_xml"
+client: Vault XML
+clientLink: "//github.com/heri/Vault-Alcatel"
 category: Ruby gem
-description: A Ruby Gem to parse Alcatel network xml files. Currently for 3G (RNC, NodeB) networks
+description: "A Ruby Gem to parse Alcatel network xml files. \n\n Currently for 3G (RNC, NodeB) networks"

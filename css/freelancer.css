@@ -1,5 +1,4 @@
 /*!
- * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
@@ -467,8 +466,8 @@ ul.skills-list {
 ul.skills-list li {
     display: inline-block;
     margin-right: 10px;
-    height: 35px;
-    width: 35px;
+    height: 50px;
+    width: 50px;
 }
 
 ul.skills-list li img {

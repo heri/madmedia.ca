@@ -28,7 +28,7 @@ theme = "freelancer"
     email = "heri@madmedia.ca"
 
     [params.navigation]
-        brand = "@heri's projects"
+        brand = "Heri's projects"
 
 
     [params.header]
@@ -55,13 +55,13 @@ theme = "freelancer"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "Heri is an engineer with an Msc. from Telecom SudParis, a french engineering school and a post-graduate management degree from HEC Montréal, Canada. \n\n Heri designs and builds systems in Ruby, JS (React), Go, Erlang for web and mobile."
-        right = "Heri has written extensively about technology, innovation, design and visual arts. \n\n He collaborates with innovative startups, engineers, artists, and speaks about technology in meetups and conferences."
+        left = "Heri is an engineer with an Msc. from Telecom SudParis, a french engineering school and a post-graduate management degree from HEC Montréal, Canada. \n\n Heri designs and builds systems in Ruby, JS (React), Go, Erlang for web and mobile. \n\n He is interested in projects that are difficult to solve, with the most impact and with good people that are highly talented and driven."
+        right = "Heri has also written extensively about technology, innovation, and design. \n\n He works with innovative startups, engineers, entrepreneurs, and speaks about technology in meetups and conferences. \n\n In his free time, he is in design and visual arts, with 2 photography expositions, one short film in Montréal, and many visual works showcased through Howl! Arts."
 
         [params.about.button]
-            text = "View Recommendations"
+            text = "Read what others say about Heri"
             link = "//www.linkedin.com/in/madmedia#recommendations"
-            icon = "linkedin"
+            icon = "comments-o"
 
 
     [params.contact]

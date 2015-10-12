@@ -1,8 +1,8 @@
 modalID: 9
-title: Chromebrew ARM
+title: Submarine Chromebook
 date: 2015-09-15
 img: submarine.png
-client: Awesome Algorithms
-clientLink: "//github.com/heri/chromebrew-arm"
+client: Submarine Chrome
+clientLink: "//github.com/heri/Submarine-Chromebook"
 category: Ruby, brew
-description: Package manager for Chrome OS - with ARM (ARMv7) support. Install Ruby, go, npm & turn your Chromebook into a dev machine
+description: "Package manager for Chrome OS to turn your ARM chromebook in a dev machine. \n\nHide amongst students and hipsters but code like a hacker on your $200 innocent looking laptop!"
