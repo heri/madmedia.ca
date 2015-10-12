@@ -4,5 +4,5 @@ date: 2015-09-*
 img: open.png
 client: open access
 clientLink: "//github.com/heri/openaccess"
-category: Chrome web extension, U2A
-description: open access is an ongoing project to provide U2A auth as designed by the FIDO alliance and in a later stage provide secure document signing capabilities.
+category: Chrome web extension, U2A, cryptography
+description: open access is an ongoing project to provide U2A auth as designed by the FIDO alliance, and in a later stage provide secure document signing capabilities.

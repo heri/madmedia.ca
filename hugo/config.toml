@@ -56,10 +56,10 @@ theme = "freelancer"
         title = "About"
         # The about text is splitted into a left and right column
         left = "Heri is an engineer with an Msc. from Telecom SudParis, a french engineering school and a post-graduate management degree from HEC Montréal, Canada. \n\n Heri designs and builds systems in Ruby, JS (React), Go, Erlang for web and mobile."
-        right = "Heri has written extensively about technology, innovation, design and visual arts. \n\n He collaborates with innovative startups, engineers, artists, leads technology meetups and speaks in conferences."
+        right = "Heri has written extensively about technology, innovation, design and visual arts. \n\n He collaborates with innovative startups, engineers, artists, and speaks about technology in meetups and conferences."
 
         [params.about.button]
-            text = "Recommendations"
+            text = "View Recommendations"
             link = "//www.linkedin.com/in/madmedia#recommendations"
             icon = "linkedin"
 
@@ -94,7 +94,7 @@ theme = "freelancer"
         [params.footer.location]
             title = "Current Location"
             # Postal address (add as many lines as necessary)
-            address = ["Villeray", "Montréal, Canada"]
+            address = ["Montréal, Canada"]
 
         [params.footer.social]
             title = "Around the web"
@@ -106,12 +106,17 @@ theme = "freelancer"
                 link = "//github.com/heri"
 
             [[params.footer.social.networks]]
+                icon = "fa-medium"
+                link=  "//medium.com/@heri"
+
+            [[params.footer.social.networks]]
                 icon = "fa-twitter"
                 link=  "//twitter.com/heri"
 
             [[params.footer.social.networks]]
-                icon = "fa-medium"
-                link=  "//medium.com/@heri"
+                icon = "fa-linkedin"
+                link=  "//www.linkedin.com/in/madmedia"
+
 
             [[params.footer.social.networks]]
                 icon = "fa-500px"
