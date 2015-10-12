@@ -1,7 +1,8 @@
-baseurl = "http://madmedia.ca/"
+# Site settings
+baseurl = "http://my-awesome-site.com/"
 languageCode = "en-us"
-title = "Heri Rakotomalala, Engineer, writer, photographer"
-theme = "freelancer"
+title = "Hugo Freelancer Theme"
+theme = "hugo-freelancer-theme"
 
 
 [params]
@@ -11,8 +12,8 @@ theme = "freelancer"
 
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-    name = "Heri"
-    description = "Heri Rakotomalala is a Developer - Writer - Photographer"
+    name = "Mr. Hugo"
+    description = "My awesome description"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -25,17 +26,17 @@ theme = "freelancer"
     # - send a dummy email youself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-    email = "heri@madmedia.ca"
+    email = "your@email.com"
 
     [params.navigation]
-        brand = "@heri's projects"
+        brand = "Mr. Hugo's Portfolio"
 
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "heri.png"
-        name = "Heri Rakotomalala"
-        subtitle = "Developer - Writer - Photographer"
+        image = "profile.png"
+        name = "Mr. Hugo"
+        subtitle = "Blogger - Programmer - Gopher"
 
 
     [params.portfolio]
@@ -43,7 +44,7 @@ theme = "freelancer"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "Projects"
+        title = "Portfolio"
 
         [params.portfolio.modal]
             client = "Client"
@@ -55,13 +56,13 @@ theme = "freelancer"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "Heri is an engineer with an Msc. from Telecom SudParis, a french engineering school and a post-graduate management degree from HEC Montréal, Canada. \n\n Heri designs and builds systems in Ruby, JS (React), Go, Erlang for web and mobile."
-        right = "Heri has written extensively about technology, innovation, design and visual arts. \n\n He collaborates with innovative startups, engineers, artists, leads technology meetups and speaks in conferences."
+        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
+        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
 
         [params.about.button]
-            text = "Recommendations"
-            link = "//www.linkedin.com/in/madmedia#recommendations"
-            icon = "linkedin"
+            text = "Download theme"
+            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
+            icon = "download"
 
 
     [params.contact]
@@ -92,9 +93,9 @@ theme = "freelancer"
         copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
 
         [params.footer.location]
-            title = "Current Location"
+            title = "Location"
             # Postal address (add as many lines as necessary)
-            address = ["Villeray", "Montréal, Canada"]
+            address = ["3481 Melrose Place", "Beverly Hills, CA 90210"]
 
         [params.footer.social]
             title = "Around the web"
@@ -103,20 +104,13 @@ theme = "freelancer"
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-github"
-                link = "//github.com/heri"
+                link = "//github.com/spf13/hugo"
 
             [[params.footer.social.networks]]
-                icon = "fa-twitter"
-                link=  "//twitter.com/heri"
+                icon = "fa-stack-overflow"
+                link=  "//stackoverflow.com/questions/tagged/hugo"
 
-            [[params.footer.social.networks]]
-                icon = "fa-medium"
-                link=  "//medium.com/@heri"
-
-            [[params.footer.social.networks]]
-                icon = "fa-500px"
-                link=  "//500px.com/heri"
 
         [params.footer.credits]
-            title = "Credits"
-            text = "Site built with go, Font Awesome & bootstrap."
+            title = "About Freelancer"
+            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
