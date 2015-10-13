@@ -5,4 +5,4 @@ img: submarine.png
 client: Submarine Chrome
 clientLink: "//github.com/heri/Submarine-Chromebook"
 category: Ruby, brew
-description: "Package manager for Chrome OS to turn your ARM chromebook in a dev machine. \n\nHide amongst students and hipsters but code like a hacker on your $200 innocent looking laptop!"
+description: "Package manager for Chrome OS to install packages on ARM machines. Code on a $200 laptop!"

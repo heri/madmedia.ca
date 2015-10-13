@@ -12,7 +12,7 @@ theme = "freelancer"
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Heri"
-    description = "Heri Rakotomalala is a Developer - Writer - Photographer"
+    description = "Heri Rakotomalala is an Engineer - Writer - Photographer"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -35,7 +35,7 @@ theme = "freelancer"
         # Copy your own image into './static/img/'' if you wish
         image = "heri.png"
         name = "Heri Rakotomalala"
-        subtitle = "Developer - Writer - Photographer"
+        subtitle = "Engineer - Writer - Photographer"
 
 
     [params.portfolio]
@@ -55,8 +55,8 @@ theme = "freelancer"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "Heri is an engineer with an Msc. from Telecom SudParis, a french engineering school and a post-graduate management degree from HEC Montréal, Canada. \n\n Heri designs and builds systems in Ruby, JS (React), Go, Erlang for web and mobile. \n\n He is interested in projects that are difficult to solve, with the most impact and with good people that are highly talented and driven."
-        right = "Heri has also written extensively about technology, innovation, and design. \n\n He works with innovative startups, engineers, entrepreneurs, and speaks about technology in meetups and conferences. \n\n In his free time, he is in design and visual arts, with 2 photography expositions, one short film in Montréal, and many visual works showcased through Howl! Arts."
+        left = "Heri is an engineer with an Msc. from Telecom SudParis, a french engineering school and a post-graduate degree from HEC Montréal, Canada. \n\n Heri designs and builds systems in Ruby, JS, Go, Erlang for web and mobile. \n\n He is interested in projects that are difficult, worth solving and with good people."
+        right = "Heri has also written about technology, innovation, and design. \n\n He works with startups, engineers, entrepreneurs, and speaks about technology in meetups and conferences. \n\n In his free time, he is in design and visual arts, with 2 photography expositions, one short film, and many visual works showcased through Howl! Arts in Montréal."
 
         [params.about.button]
             text = "Read what others say about Heri"
@@ -92,7 +92,7 @@ theme = "freelancer"
         copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
 
         [params.footer.location]
-            title = "Current Location"
+            title = "Location"
             # Postal address (add as many lines as necessary)
             address = ["Montréal, Canada"]
 
