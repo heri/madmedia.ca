@@ -2,7 +2,7 @@ modalID: 12
 title: Hebu Kwenda
 date: 2015-08-*
 img: montreal.jpg
-client: Github Heri
-clientLink: "//github.com/heri/HebuKwenda"
-category: Dev, Ruby
+client: Hebu Kwenda
+clientLink: "//bitbucket.org/hrakotomalala/hebukwenda"
+category: Dev, Ruby Volt front and back-end
 description: "HebuKwenda responds to the questions 'What to do in Montréal today'. With a on-demand intelligent concierge service!"
