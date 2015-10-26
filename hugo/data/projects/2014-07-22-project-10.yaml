@@ -1,8 +1,8 @@
 modalID: 10
-title: Product.IO
-date: 2015-
-img: product.png
-client: Product.IO
-clientLink: "//medium.com/product-dot-io"
-category: Writing
-description: A Medium Publication on Digital product design and making
+title: Vault Alcatel
+date: 2015-09-*
+img: safe.png
+client: Vault XML
+clientLink: "//github.com/heri/Vault-Alcatel"
+category: Ruby gem
+description: "A Ruby Gem to parse Alcatel network xml files. \n\n Currently for 3G (RNC, NodeB) networks"

@@ -1,8 +1,8 @@
 modalID: 8
-title: Revival
-date: 2015-09-01
-img: jarry.png
-client: Photography and visual work
-clientLink: "//instagram.com/heri_rakotomalala/"
-category: Visual Arts
-description: "View of Park Jarry, Montréal \n\n One of the many visual works (photos, video, mix media) by @heri"
+title: Awesome Algorithms
+date: 2015-
+img: cake.png
+client: Awesome Algorithms
+clientLink: "//github.com/heri/Awesome-Algorithms-CiSE"
+category: Algorithms
+description: "A collection of awesome algorithms in ruby, python, haskell. \n\n As delicious as cake!"

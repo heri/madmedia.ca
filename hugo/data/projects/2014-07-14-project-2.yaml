@@ -1,8 +1,8 @@
 modalID: 2
-title: project cuda ranking
+title: project home lajeunesse
 date: 2015-10-09
-img: cuda.png
-client: cuda ranking
-clientLink: "//heri.github.io/cuda/post/october-2015/"
-category: Benchmarking
-description: Analysis of top 10 laptops for scientific computing (esp neural networks)
+img: home.png
+client: home lajeunesse
+clientLink: "//github.com/heri/Home-Lajeunesse"
+category: Android, mobile, react-native
+description: Home notification and automation system on Android
